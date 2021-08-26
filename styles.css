@@ -15,14 +15,27 @@ hr {
     margin: 2rem 0rem;
 }
 
+/* showcase-list */
+.showcase-list{
+    padding: 2rem;
+    border-radius: 1rem;
+    text-align: center;
+    margin: 3rem auto;
+
+}
+
 /* spaces */
 .margin-md {
     margin: 2rem;
 }
+
+
 /** container **/
 .container {
     padding: 0rem 1rem;
 }
+
+
 
 .container-center {
 
@@ -146,4 +159,9 @@ hr {
 
 .footer ul{
     padding-inline-start: 0px;
+}
+
+/* color for p */
+.grey{
+    color: var(--dark-gray);
 }
